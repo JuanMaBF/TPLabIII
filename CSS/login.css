@@ -9,5 +9,8 @@ body, html {
 }
 
 form {
-	color: #323232;
+	color: #5d5d5d;
+	background: #f2f2f2;
+	padding: 26px;
+	border-radius: 10px;
 }
