@@ -23,3 +23,9 @@ form img {
 	margin: 0 auto;
 	margin-bottom: 35px;
 }
+
+form input,
+form button {
+    font-size: 18px;
+	margin: 16px 0;
+}
