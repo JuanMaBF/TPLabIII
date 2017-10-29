@@ -3,3 +3,11 @@ body, html {
     background-repeat: no-repeat;
     background-image: linear-gradient(rgb(104, 145, 162), rgb(12, 97, 33));
 }
+
+.form-login {
+	margin-top: 60px;
+}
+
+form {
+	color: #323232;
+}
