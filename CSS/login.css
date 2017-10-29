@@ -2,10 +2,9 @@
 	outline: none;
 }
 
-body, html {
-    height: 100%;
-    background-repeat: no-repeat;
-    background-image: linear-gradient(rgb(104, 145, 162), rgb(12, 97, 33));
+body {
+	background: url(http://i.imgur.com/GHr12sH.jpg) no-repeat center center fixed;
+    background-size: cover;
 }
 
 .form-login {
@@ -21,7 +20,6 @@ form {
 
 form img {
     display: block;
-    margin: 0 auto;
-    margin-bottom: 35px;
-
+	margin: 0 auto;
+	margin-bottom: 35px;
 }
