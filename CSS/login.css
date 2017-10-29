@@ -1,4 +1,5 @@
-body {
-    background: url(http://i.imgur.com/GHr12sH.jpg) no-repeat center center fixed;
-    background-size: cover;
+body, html {
+    height: 100%;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgb(104, 145, 162), rgb(12, 97, 33));
 }
